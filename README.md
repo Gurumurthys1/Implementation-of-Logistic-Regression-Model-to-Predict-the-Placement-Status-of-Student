@@ -8,13 +8,17 @@ To write a program to implement the the Logistic Regression Model to Predict the
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-step 1. Import the required packages and print the present data.
+step 1. Start the program.
 
-step 2. Find the null and duplicate values.
+step 2. Import the required packages and print the present data.
 
-step 3. Using logistic regression find the predicted values of accuracy , confusion matrices.
+step 3. Find the null and duplicate values.
 
-step 4. Display the results.
+step 4. Using logistic regression find the predicted values of accuracy , confusion matrices.
+
+step 5. Display the results.
+
+step 6. End a program.
 
 ## Program:
 ```
